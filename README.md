@@ -1,4 +1,4 @@
-# Hacking Wi-Fi Password with "Chicken Man" Game
+# OpenCV Facial Recognition
 ## Overview
 
 This Project showcases facial recognition capabilities of openCV, using different haarcascade classifiers
